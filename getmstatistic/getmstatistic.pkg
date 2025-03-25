@@ -1,0 +1,12 @@
+D 'getmstatistic': Quantifying Systematic Heterogeneity in Meta-Analysis Use getmstatistic With STATA 18
+D
+F getmstatistic.ado
+F getmstatistic.sthlp
+F metareg.ado
+F metareg.dlg
+F metareg.hlp
+F metareg_ll.ado
+F metareg_p.ado
+F metareg_pm.ado
+F qqvalue.ado
+F qqvalue.sthlp
