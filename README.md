@@ -1,5 +1,7 @@
 # getmstatistic
-Quantifying Systematic Heterogeneity in Meta-Analysis Use getmstatistic With STATA 18
+Quantifying Systematic Heterogeneity in Meta-Analysis Use getmstatistic With STATA 19
+
+https://www.youtube.com/watch?v=obCGmTuc8rg
 
 Olah Data Semarang
 
